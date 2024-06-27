@@ -1,0 +1,3 @@
+1,sala virtual,09:00-10:00
+2,HOME,09:00-11:00
+3,casa do well,09:00-18:00
